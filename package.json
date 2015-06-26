@@ -1,0 +1,17 @@
+{
+	"name": "webpack-serve",
+	"version": "0.1.0",
+	"author": "Izaak Schroeder <izaak.schroeder@gmail.com>",
+	"license": "CC0-1.0",
+	"repository": "izaakschroeder/webpack-serve",
+	"main": "lib/index.js",
+	"dependencies": {
+		"lodash": "^3.9.3",
+		"express": "^5.0.0-alpha.1",
+		"serve-static": "^1.10.0",
+		"webpack": "^1.9.0"
+	},
+	"peerDependencies": {
+		"webpack": "^1.9.0"
+	}
+}
